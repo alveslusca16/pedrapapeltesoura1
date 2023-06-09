@@ -1,0 +1,154 @@
+@media screen and (max-width: 760px) {
+    .inicio h1 {
+        font-size: 50px;
+    }
+
+    .inicio span {
+        font-size: 30px;
+    }
+
+    .nomes span {
+        font-size: 60px;
+    }
+
+    .jogador1 label {
+        font-size: 40px;
+    }
+
+    .jogador2 label {
+        font-size: 40px;
+    }
+
+    .principal h1 {
+        font-size: 60px;
+    }
+
+    .group {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        
+    }
+
+    .separador {
+        font-size: 40px;
+    }
+
+    span#PPT1 {
+        font-size: 30px;
+    }
+
+    span#PPT2 {
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 391px) {
+    .inicio h1 {
+        font-size: 30px;
+    }
+
+    .inicio span {
+        font-size: 25px;
+        padding: 0 6px;
+        text-align: center;
+    }
+
+    .inicio button {
+        width: 250px;
+        height: 70px;
+        font-size: 25px;
+    }
+
+    .nomes span {
+        font-size: 35px;
+    }
+
+    .jogador1 label {
+        font-size: 25px;
+    }
+
+    .jogador2 label {
+        font-size: 25px;
+    }
+
+    .jogador1 input {
+        width: 200px;
+    }
+
+    .jogador2 input {
+        width: 200px;
+    }
+
+    .nomes button {
+        font-size: 18px;
+        width: 200px;
+        height: 50px;
+    }
+
+    .principal h1 {
+        font-size: 30px;
+    }
+
+    img#img1 {
+        width: 170px;
+        height: 150px;
+    }
+
+    img#img2 {
+        width: 170px;
+        height: 150px;
+        
+    }
+
+    .group {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-around;
+        gap: 5px;
+    }
+
+    span#PPT1 {
+        font-size: 20px;
+    }
+
+    span#PPT2 {
+        font-size: 20px;
+    }
+
+    .separador {
+        font-size: 20px;
+    }
+
+    .container1 button {
+        width: 150px;
+        font-size: 15px;
+    }
+
+    .container2 button {
+        width: 150px;
+        font-size: 15px;
+    }
+
+    .reiniciar {
+        gap: 50px; 
+    }
+
+    .reiniciar button {
+        width: 100px;
+        font-size: 18px;
+    }
+
+    .reiniciar p {
+        font-size: 25px;
+    }
+
+    span#win1{
+        font-size: 25px;
+    }
+
+    span#win2 {
+        font-size: 25px;
+    }
+}
