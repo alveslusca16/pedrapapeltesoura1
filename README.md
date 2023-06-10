@@ -6,4 +6,4 @@ Tesoura ganha de papel, mas perde para a pedra. E pedra ganha da tesoura, mas pe
 
 Quem ganha 5 rodadas é o campeão, mas não se preocupe você pode jogar novamente, e com um nome diferente (se preferir).
 
-para acessar o game: https://alveslusca16.github.io/pedrapapeltesoura/
+para acessar o game: https://alveslusca16.github.io/pedrapapeltesoura1/
